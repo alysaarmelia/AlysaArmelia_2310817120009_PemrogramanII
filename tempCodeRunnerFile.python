@@ -1,0 +1,18 @@
+import math
+
+a = 5
+b = math.sqrt(a*a + c*c)
+c = 12
+
+K = a + b + c
+l = 1 / 2 * a * c
+
+print("Diketahui : ")
+print(f"Alas = {c} cm")
+print(f"Tinggi = {a} cm ")
+print("Jawab : ")
+print(f"Sisi A = {a} cm")
+print(f"Sisi B = {b} cm")
+print(f"Sisi C = {c} cm")
+print(f"Keliling = {k} cm")
+print(f"Luas {l} cm**2")
