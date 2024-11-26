@@ -11,8 +11,8 @@ public class PRAK303_2310817120009_Alysa_Armelia {
 	        while (true) {
 	            System.out.println("Menu: ");
 	            System.out.println("1. Tambah Mahasiswa");
-	            System.out.println("2. Hapus Mahasiswa Berdasar NIM");
-	            System.out.println("3. Cari Mahasiswa Berdasar NIM");
+	            System.out.println("2. Hapus Mahasiswa Berdasarkan NIM");
+	            System.out.println("3. Cari Mahasiswa Berdasarkan NIM");
 	            System.out.println("4. Tampilkan Daftar Mahasiswa");
 	            System.out.println("0. Keluar");
 	            System.out.print("Pilihan: ");
